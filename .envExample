@@ -1,0 +1,4 @@
+URI_MONGO=uri de tu db en mongo
+JWT_SECRET= clave secreta del JWT
+JWT_REFRESH= clave secreta del refresh JWT
+MODO=developer o production
